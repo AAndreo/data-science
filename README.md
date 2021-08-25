@@ -16,7 +16,7 @@ Possuo formação em Ciencias da Computação e MBA em Gestão e Estratégia Emp
 **Links:**
 * [Blog](http://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+
 
 
 ## Projetos:
