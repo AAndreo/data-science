@@ -9,9 +9,9 @@
 
 Grande experiência na participação em equipes de projetos de análise, desenvolvimento, implantação e suporte a sistemas.
 
-Possuo formação em Ciencias da Computação e MBA em Gestão e Estratégia Empresarial e  E-Business: Tecnologia da Informação e Negócios na Internet.
-
-**Conhecimentos em:** .Net, Sql Server.
+* Graduação em Ciencias da Computação
+* MBA em Gestão e Estratégia Empresarial
+* MBA em E-Business: Tecnologia da Informação e Negócios na Internet.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/aandreo)
