@@ -19,7 +19,7 @@ Grande experiência na participação em equipes de projetos de análise, desenv
 
 
 ## Projetos:
-* **Analisando dados do Airbnb de Amsterdã:** https://bit.ly/2L2cMwy
+* **Analisando dados do Airbnb de Amsterdã:** http://bit.ly/3AmbENQ
 
 
 ---
