@@ -9,7 +9,7 @@
 
 Grande experiência na participação em equipes de projetos de análise, desenvolvimento, implantação e suporte a sistemas.
 
-* Graduação em Ciencias da Computação
+* Graduado em Ciencias da Computação
 * MBA em Gestão e Estratégia Empresarial
 * MBA em E-Business: Tecnologia da Informação e Negócios na Internet.
 
