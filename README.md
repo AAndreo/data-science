@@ -20,7 +20,7 @@ Grande experiência na participação em equipes de projetos de análise, desenv
 
 ## Projetos:
 * **Analisando dados do Airbnb de Amsterdã:** http://bit.ly/3AmbENQ
-
+* **Estudo de caso da Covid-19 no Brasil e no mundo.** http://bit.ly/3vweEUL
 
 ---
 
