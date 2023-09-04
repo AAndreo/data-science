@@ -19,11 +19,13 @@ Grande experiência na participação em equipes de projetos de análise, desenv
 Repositório para projetos voltados para aprendizado e desenvolvimento das ferramentas e metodologias.
 
 ## Projetos:
-* [**Analisando dados do Airbnb de Amsterdã**](http://bit.ly/3AmbENQ). Análise exploratória de dados referentes ao mercado de hospedagens em Amsterdã da plataforma Airbnb. Trouxemos informações referentes a tipo de imóveis e localização disponíveis para locação, preço médio, número mínimo de diárias exigidas, opções de locação para quem pode pagar caro, mas não esquecendo de buscar oportunidades que possam atender também as pessoas que querem ficar próximas as melhores localizações, mas não podem gastar muito com o aluguel.
+* [**Analisando dados do Airbnb de Amsterdã**](http://bit.ly/3AmbENQ). Análise exploratória de dados referentes ao mercado de hospedagens em Amsterdã da plataforma Airbnb. Trazendo informações referentes a tipo de imóveis e localização disponíveis para locação, preço       médio, número mínimo de diárias exigidas, opções de locação para quem pode pagar caro, mas não esquecendo de buscar oportunidades que possam atender também as pessoas que querem ficar próximas as melhores localizações, mas não podem gastar muito com o aluguel.
 
   Skills: #python #dataanalysis #storytelling #pandas #datavisualization #seaborn #matplotlib
   
-* **Estudo de caso da Covid-19 no Brasil e no mundo.** http://bit.ly/3vweEUL
+* [**Estudo de caso da Covid-19 no Brasil e no mundo**](http://bit.ly/3vweEUL). Análise exploratória de dados sobre a evolução de casos e mortes por infecção pela COVID-19 no Brasil e no mundo. Através de dados consolidados pelo site Our World in Data, foram              apresentadas informações como países líderes em númenro de casos e mortes confirmadas, evolução das doses de vacinação e casos confirmados, relação da distribuição do PIB per capita com total de mortes registradas, dentre outras, que de alguma maneira, possam           auxiliar o entendimento da extensão dessa pandemia.
+
+  Skills: #python #dataanalysis #storytelling #pandas #datavisualization #seaborn #matplotlib
 
 ---
 
