@@ -4,8 +4,7 @@
   <img src="img/DataScienceBanner.jpg" >
 </p>
 
-# Alexandre Andréo
-<sub>*Desenvolvedor de Sistemas, iniciando minha carreira em Data Science </sub>
+# Alexandre Moreira Andréo
 
 Grande experiência na participação em equipes de projetos de análise, desenvolvimento, implantação e suporte a sistemas.
 
@@ -16,10 +15,14 @@ Grande experiência na participação em equipes de projetos de análise, desenv
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/aandreo)
 
-
+## Portifólio de Análise e Ciência de Dados
+Repositório para projetos voltados para aprendizado e desenvolvimento das ferramentas e metodologias.
 
 ## Projetos:
-* **Analisando dados do Airbnb de Amsterdã:** http://bit.ly/3AmbENQ
+* [**Analisando dados do Airbnb de Amsterdã**](http://bit.ly/3AmbENQ). Análise exploratória de dados referentes ao mercado de hospedagens em Amsterdã da plataforma Airbnb. Trouxemos informações referentes a tipo de imóveis e localização disponíveis para locação, preço médio, número mínimo de diárias exigidas, opções de locação para quem pode pagar caro, mas não esquecendo de buscar oportunidades que possam atender também as pessoas que querem ficar próximas as melhores localizações, mas não podem gastar muito com o aluguel.
+
+  Skills: #python #dataanalysis #storytelling #pandas #datavisualization #seaborn #matplotlib
+  
 * **Estudo de caso da Covid-19 no Brasil e no mundo.** http://bit.ly/3vweEUL
 
 ---
