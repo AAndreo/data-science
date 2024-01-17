@@ -15,7 +15,7 @@ Grande experiência na participação em equipes de projetos de análise, desenv
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/aandreo)
 
-## Portifólio de Análise e Ciência de Dados
+## Portfólio de Análise e Ciência de Dados
 Repositório para projetos voltados para aprendizado e desenvolvimento das ferramentas e metodologias.
 
 ## Projetos:
